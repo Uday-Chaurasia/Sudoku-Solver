@@ -59,7 +59,6 @@ bool checkBlock(int grid[][N], int n, int i, int j) {
                 return false;
 
     return true;
-
 }
 
 bool solve(int grid[][N]) {
